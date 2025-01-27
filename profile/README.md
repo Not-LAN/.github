@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ GitHub as Your Vulnerability Portal
+## 🛠️ GitHub: Your Gateway to Vulnerability Management
 
 Our GitHub repository serves as your **central hub** for tracking and managing vulnerabilities identified during our assessments. Here’s what you can expect:
 
