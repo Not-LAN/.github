@@ -1,6 +1,6 @@
 # 🌐 Welcome to <span style="color:#7678ED;">Not</span><span style="color:#F18701;">LAN</span>
 
-**<span style="color:#7678ED;">Not</span><span style="color:#F18701;">LAN</span>** is a cutting-edge cybersecurity startup specializing in ethical hacking and vulnerability management. We deliver actionable insights to help secure your digital infrastructure. Our mission is to go beyond traditional tools and offer tailored solutions that truly make a difference.
+**<span style="color:#7678ED;">Not</span><span style="color:#F18701;">LAN</span>** is a cutting-edge cybersecurity company specializing in ethical hacking and vulnerability management. We deliver actionable insights to help secure your digital infrastructure. Our mission is to go beyond traditional tools and offer tailored solutions that truly make a difference.
 
 ---
 
