@@ -1,4 +1,4 @@
-# 🌐 Welcome to NotLAN — Offensive Security & Ethical Hacking Services
+# 🌐 Welcome to NotLAN — Offensive Security as a Service
 
 **NotLAN** is a cybersecurity company specializing in **ethical hacking**, **penetration testing**, and **continuous vulnerability management**. We help companies across **Web2 and Web3** ecosystems secure their digital assets through expert-driven offensive security testing and actionable remediation.
 
