@@ -1,69 +1,85 @@
-# 🌐 Welcome to <span style="color:#7678ED;">Not</span><span style="color:#F18701;">LAN</span>
+# 🌐 Welcome to NotLAN — Offensive Security & Ethical Hacking Services
 
-**<span style="color:#7678ED;">Not</span><span style="color:#F18701;">LAN</span>** is a cutting-edge cybersecurity company specializing in ethical hacking and vulnerability management. We deliver actionable insights to help secure your digital infrastructure. Our mission is to go beyond traditional tools and offer tailored solutions that truly make a difference.
+**NotLAN** is a cybersecurity company specializing in **ethical hacking**, **penetration testing**, and **continuous vulnerability management**. We help companies across **Web2 and Web3** ecosystems secure their digital assets through expert-driven offensive security testing and actionable remediation.
+
+> 🔗 Visit us at [https://notlan.mx](https://notlan.mx)
 
 ---
 
 ## 🚀 What We Do
 
-- **Ethical Hacking as a Service**: Continuous penetration testing services with robust experience in Web2 and Web3 technologies to identify and mitigate risks before attackers can exploit them.
-- **Vulnerability Reporting**: Executive and technical reports that eliminate false positives and provide clear, actionable steps for remediation.
-- **Customer-Centric Security**: Every finding is manually validated by our team to ensure quality and relevance.
+- **Ethical Hacking as a Service**  
+  Continuous penetration testing services to proactively identify and mitigate vulnerabilities in web, cloud, and decentralized platforms.
+
+- **Vulnerability Reporting**  
+  Executive-ready and technical reports, free of false positives and full of remediation value.
+
+- **Client-Centric Security**  
+  All findings are manually validated to ensure real risk relevance—no noisy scanners.
 
 ---
 
-## 🤖 Discord Bot: Real-Time Guidance, Anytime
+## 🤖 Nova: Real-Time Security Bot on Discord
 
-We’ve officially launched our **Discord Bot** to support our clients with instant access to security intelligence and guidance.
+We’ve launched **Nova**, our Discord-based bot that supports real-time remediation, executive reporting, and vulnerability tracking.
 
-### Key Features:
-- **Remediation Assistance**: Use `!remediate [ID]` to get clear, step-by-step fixes for vulnerabilities.
-- **Executive Summaries**: Generate business-friendly summaries with `!findingexec [ID]`.
-- **Full Reports**: Receive ready-to-download PDF reports with `!reportexec`, including metrics and diagrams.
-- **Finding Lookup**: Instantly retrieve open findings with `!findings`, or filter by severity.
+### Key Features
+- 🛠️ **Remediation Guidance** (`!remediate [ID]`)  
+  AI-generated fixes mapped to security frameworks like ISO 27001 and DORA.
 
-All commands are scoped per client and optimized with caching to reduce response time and cost.
+- 📄 **Executive Summaries** (`!findingexec [ID]`)  
+  Business-level explanations with risk scores and impact context.
 
----
+- 📊 **Full Reports** (`!reportexec`)  
+  Downloadable PDFs with diagrams, metrics, and visual timelines.
 
-## 🛠️ GitHub: Your Gateway to Vulnerability Management
+- 🔍 **Finding Lookup** (`!findings`)  
+  Query findings by ID, severity, or state.
 
-Our GitHub repositories serve as your **central hub** for tracking and managing vulnerabilities identified during our assessments.
-
-- **Track Active Findings**: Monitor vulnerabilities in real time.
-- **Status Transparency**: Review statuses such as Open, In Review, Retesting, or Remediated.
-- **Visual Insights**: Diagrams and graphics support clarity and stakeholder alignment.
-- **Historical Traceability**: Access data across multiple testing sprints.
+All commands are **client-scoped**, optimized via caching, and delivered through secure channels.
 
 ---
 
-## 🌟 Built-In Innovation
+## 📂 GitHub for Vulnerability Management
 
-We’re always evolving. Some of our unique offerings include:
+Our GitHub repositories are used in live projects to manage findings and streamline remediation.
 
-- ⚙️ **AI-Powered Reporting**: Contextualized summaries and remediation guidance via OpenAI GPT-4o.
-- 📊 **Rich Visuals**: GIFs, diagrams, and charts to enhance understanding and executive communication.
-- 💬 **Integrated Communication**: Discord and GitHub used together for seamless collaboration between teams.
-
----
-
-## 📚 Why Choose <span style="color:#7678ED;">Not</span><span style="color:#F18701;">LAN</span>?
-
-- **Accuracy Over Automation**: No noisy scanners—just validated, meaningful findings.
-- **Customization**: Reporting formats and dashboards adapted to your business.
-- **Experienced Team**: We blend technical rigor with real-world impact.
+- 🔄 **Status Tracking**: Open → In Review → Retesting → Remediated  
+- 🧾 **Audit Trail**: Each vulnerability tracked across sprints  
+- 📈 **Visual Insights**: GIFs, diagrams, and metrics in each report  
+- 🔐 **Private Repositories**: Findings per client, protected and isolated
 
 ---
 
-## 🤝 Get in Touch
+## 🌟 Why Choose NotLAN?
 
-Let’s work together to secure your digital assets. Reach out to us today:
-- 📧 Head of Ethical Hacking: [jvelazquez@notlan.mx](mailto:jvelazquez@notlan.mx)
-- 📧 Head of Sales LATAM:     [ucruz@notlan.mx](mailto:ucruz@notlan.mx)
+- ✅ **Accuracy over automation** — no false positives, no noise  
+- 🎯 **Custom reporting** for stakeholders, CISOs, and tech teams  
+- 🌎 **Global experience**, local presence (CDMX 🇲🇽 & Madrid 🇪🇸)  
+- 🧠 **AI-augmented services** using OpenAI and custom models
 
 ---
 
-## 📌 Disclaimer
-This repository is designed for authorized users only. If you’re a client, ensure you have the proper credentials to access your vulnerability findings.
+## 📣 Press & Recognition
 
-> Security is not just a product—it’s a mindset. At <span style="color:#7678ED;">Not</span><span style="color:#F18701;">LAN</span>, we’re here to help you adopt it.
+> NotLAN is recognized for its innovation in **AI-based red teaming** and **continuous penetration testing** in Latin America.  
+> Check our latest updates at [https://notlan.mx](https://notlan.mx)
+
+---
+
+## 🤝 Contact Us
+
+Let’s work together to secure your systems:
+
+- 📧 Ethical Hacking: [jvelazquez@notlan.mx](mailto:jvelazquez@notlan.mx)  
+- 📧 Sales LATAM: [ucruz@notlan.mx](mailto:ucruz@notlan.mx)
+
+---
+
+## 📌 Legal Notice
+
+This repository is intended for authorized users and demonstration purposes. Each client has private, access-controlled reports and tracking dashboards.
+
+> _Security is not just a product—it’s a mindset._  
+> — NotLAN Team
+
